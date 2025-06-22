@@ -1,0 +1,10 @@
+[package]
+name = "report_card"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+text_io = "0.1"
+printpdf = "0.5"
+chrono = "0.4"
+lazy_static = "1.4"
