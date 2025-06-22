@@ -4,8 +4,6 @@ A Rust CLI app that generates PDF report cards with grades
 https://img.shields.io/badge/Rust-v1.70+-orange
 https://img.shields.io/badge/License-MIT-blue
 
-https://via.placeholder.com/400x500?text=Sample+Report+Card (Replace with actual screenshot)
-
 ✨ Features
 📌 Input student details (name, marks, subjects)
 
